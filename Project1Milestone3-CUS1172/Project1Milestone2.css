@@ -1,0 +1,305 @@
+
+.searchedit{
+  margin: 15px; 
+  
+}
+
+.searcheditinput{
+  padding: 20px;
+  font-size: 15px;
+  width: 100%;
+}
+
+
+
+
+
+.menu-style{
+  list-style: none;
+  border-width:1px;
+  border-style:solid;
+  border-color: black;
+  border-collapse:collapse;
+  background-color: lightgrey;
+  margin: 0 10px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  padding: 10px;
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.box_table>table {
+border-width:1px;
+border-style:solid;
+border-color:black;
+border-collapse:collapse;
+width: 50%;
+
+}
+
+.box_table>table th, .box_table>table td{
+border:1px solid black;
+padding: 5px;
+text-align: center;
+
+}
+
+.box_table>table th {
+  background-color:lightgrey
+}
+
+
+
+
+.h3list-change {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+}
+.h3list-change li {
+  border:solid black;
+  padding: 10px; 
+  margin-bottom: 10px; 
+  text-align: center; 
+  background-color:lightgrey
+}
+
+.h4list-change {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+}
+.h4list-change li {
+  border:solid black;
+  padding: 10px; 
+  margin-bottom: 10px; 
+  text-align: center; 
+  background-color:lightgrey
+}
+
+.h6list-change {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+}
+.h6list-change li {
+  border:solid black;
+  padding: 10px; 
+  margin-bottom: 10px; 
+  text-align: center; 
+  background-color:lightgrey
+}
+
+.h6list-change2 {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+}
+.h6list-change2 li {
+  border:solid black;
+  padding: 10px; 
+  margin-bottom: 10px; 
+  text-align: center; 
+  background-color:lightgrey
+}
+
+.h6list-change3 {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+}
+.h6list-change3 li {
+  border:solid black;
+  padding: 10px; 
+  margin-bottom: 10px; 
+  text-align: center; 
+  background-color:lightgrey
+}
+
+
+
+
+
+
+
+
+.h8num-change {
+  list-style-position: inside; 
+  padding: 0; 
+  margin: 10; 
+}
+.h8num-change li {
+  border:solid black;
+  padding: 10px; 
+  margin-bottom: 10px; 
+  text-align: center; 
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+.h2font
+{
+margin: 15px;
+font-size: 25px;
+font-weight: bold;
+
+}
+
+.h3font
+{
+margin: 15px;
+font-size: 25px;
+font-weight: bold;
+}
+
+.h4font
+{
+margin: 15px;
+font-size: 25px;
+font-weight: bold;
+}
+
+.h5font
+{
+margin: 15px;
+font-size: 25px;
+font-weight: bold;
+}
+
+.h6font
+{
+margin: 15px;
+font-size: 25px;
+font-weight: bold;
+}
+
+.h7font
+{
+margin: 15px;
+font-size: 25px;
+font-weight: bold;
+}
+
+.h8font
+{
+margin: 15px;
+font-size: 25px;
+font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.colorchange1
+{
+  padding:10px;
+  border:solid black;
+  background-color:lightgrey
+}
+
+.colorchange2
+{
+  padding:10px;
+  border:solid black;
+  background-color:lightgrey
+}
+
+
+
+
+
+.h7-p-colorchange
+{
+  padding: 10px;
+  border:solid black;
+  background-color:lightgrey
+  
+}
+
+
+
+
+
+.h6spancolor{
+  font-weight: bold;
+  color:blue
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media print{
+  .screen_only {
+    display:none
+  }
+}
+
+@media (max-width: 1200px) {
+  body{
+    background-color: lightblue;
+
+  
+}
+h1,h2,h3,h4,h5,h6,h7,h8 {
+  background-color: red;
+}
+}
